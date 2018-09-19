@@ -24,7 +24,7 @@ public class TestBiodata {
         bio.setNamaIbu("Tutin Sumarni");
         bio.setNamaSaudara("Damar Izzatur Rukhil Jannah \n\t\t              Damar Roosyidah Adnani Hidayat "
                 + "\n\t\t              Damar Syamsahira Khoulan Jasidah");
-        bio.setAlamat("Jalan Serma Abdurrahman Gg. Kusuma Bakti, Probolinggo");
+        bio.setAlamat("Jalan Serma Abdurrahman Gg. Kusuma Bakti RT02 RW06, Kel. Mangunhargo, Kec. Mayangan, Probolinggo");
         bio.setTempatLahir("Probolinggo");
         bio.setTanggalLahir("25 September 2002");
         bio.setHobi("Bersepeda");
