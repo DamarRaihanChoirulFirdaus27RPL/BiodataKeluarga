@@ -22,6 +22,7 @@ public class TestBiodata {
         BiodataKeluarga bio = new BiodataKeluarga();
         bio.setNamaAyah("Syamsul Hidayat");
         bio.setNamaIbu("Tutin Sumarni");
+        bio.setNamamu("Damar Raihan Choirul Firdaus");
         bio.setNamaSaudara("Damar Izzatur Rukhil Jannah \n\t\t              Damar Roosyidah Adnani Hidayat "
                 + "\n\t\t              Damar Syamsahira Khoulan Jasidah");
         bio.setAlamat("Jalan Serma Abdurrahman Gg. Kusuma Bakti RT02 RW06, Kel. Mangunhargo, Kec. Mayangan, Probolinggo");
